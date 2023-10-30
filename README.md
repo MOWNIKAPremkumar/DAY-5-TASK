@@ -1,0 +1,3 @@
+DAY - 5 TASK
+JSON ITERATE OVERALL FOR LOOPS (for, for in, for of, forEach)
+RESUME IN JSON FORMAT 
